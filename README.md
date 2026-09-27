@@ -12,3 +12,5 @@ Page (main)
     ├── PropertyCard (article)
     └── PropertyCard (article)
 ```
+
+https://ai.studio/apps/270bcdc0-aa69-41ef-a04d-0e9ecbd66055
